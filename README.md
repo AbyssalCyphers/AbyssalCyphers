@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **AbyssalCyphers/AbyssalCyphers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -38,4 +38,3 @@ This GitHub is my digital portfolio, showcasing my projects, technical skills, a
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
