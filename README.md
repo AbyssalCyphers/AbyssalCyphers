@@ -12,9 +12,8 @@ I'm Ayoub, a Computer Science student at UM6P (Université Mohammed VI Polytechn
 This GitHub is my digital portfolio, showcasing my projects, technical skills, and growth as a developer. I’m excited to share my work, contribute to open-source, and collaborate on innovative solutions. Whether it’s optimizing algorithms or exploring Python for data analysis, I’m driven to create impactful tech.
 
 ### My Projects
-| [MiniRT] | [MiniShell] |
-|------------------|------------------|------------------|
-| [Mini Raytracer](https://github.com/AbyssalCyphers/miniRT) | [Shell Simulation](https://github.com/AbyssalCyphers/minishell) | [Data Analysis Dashboard](link-to-repo) | [] ()
+
+| [Mini Raytracer](https://github.com/AbyssalCyphers/miniRT) | [Shell Simulation](https://github.com/AbyssalCyphers/minishell) | [Data Analysis Dashboard](link-to-repo) |
 | A C++ raytracing project rendering 3D scenes with lighting effects. | A C-based shell mimicking bash functionality with pipes and redirects. | A Python-based dashboard analyzing local business data. |
 
 ### Skills
@@ -30,11 +29,8 @@ This GitHub is my digital portfolio, showcasing my projects, technical skills, a
 
 ---
 © 2025 [Ayoub]. All rights reserved.
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working on Pro Web server
+- 🌱 I’m currently learning Python for machine learning and data analysis
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💬 Ask me about chess
+- ⚡ Fun fact: I once dreamed in binary and woke up trying to debug my pillow! 0101 is my sleep language now.
