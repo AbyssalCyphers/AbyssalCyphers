@@ -12,7 +12,7 @@ I'm Ayoub, a Computer Science student at UM6P (Université Mohammed VI Polytechn
 This GitHub is my digital portfolio, showcasing my projects, technical skills, and growth as a developer. I’m excited to share my work, contribute to open-source, and collaborate on innovative solutions. Whether it’s optimizing algorithms or exploring Python for data analysis, I’m driven to create impactful tech.
 
 ### My Projects
-| [Project Name 1] | [Project Name 2] | [Project Name 3] |
+| [MiniRT] | [MiniShell] |
 |------------------|------------------|------------------|
 | [Mini Raytracer](https://github.com/AbyssalCyphers/miniRT) | [Shell Simulation](https://github.com/AbyssalCyphers/minishell) | [Data Analysis Dashboard](link-to-repo) | [] ()
 | A C++ raytracing project rendering 3D scenes with lighting effects. | A C-based shell mimicking bash functionality with pipes and redirects. | A Python-based dashboard analyzing local business data. |
